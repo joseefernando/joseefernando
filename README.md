@@ -11,7 +11,7 @@
 
 </div>
 
-<h3 align="center">Apaixonado por tecnologia e focado em resolver problemas para gerar impacto.</h3>
+<h3 align="center">Apaixonado por tecnologia e focado em resolver problemas para gerar impacto!</h3>
  
 Olá! Sou José, um estudante de *Ciências da Computação* de 21 anos, movido pela paixão por tecnologia e inovação. Estou sempre em busca de novos desafios e oportunidades para aprender, criar e compartilhar conhecimento no mundo da computação.
 
